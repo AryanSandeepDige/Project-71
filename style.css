@@ -122,7 +122,19 @@ input {
 .book hr {
     margin-bottom: 10px;
 }
+
 .SchoolLogo {
     width: 300px;
     height: 50px;
+}
+
+.VidyaBalanImage {
+    height: 300px;
+    width: 300px;
+}
+
+.AsityaThackerayImage {
+    height: 300px;
+    width: 300px;
+    margin-right: 100px;
 }
